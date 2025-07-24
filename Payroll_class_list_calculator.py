@@ -13,7 +13,7 @@ class Employee:
         overtime_pay = overtime_hours * self.hourly_rate * 1.5
         return regular_pay + overtime_pay
 
-payroll = []
+payroll = [] 
 
 # Main loop
 while True:
