@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Payroll_class_list_calculator", "Payroll_class_list_calculator.pyproj", "{A1B33CD1-56E5-48BC-BEAF-A08C31206B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B33CD1-56E5-48BC-BEAF-A08C31206B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B33CD1-56E5-48BC-BEAF-A08C31206B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856B4220-7D17-4D8B-9384-A633AE0AA2F9}
+	EndGlobalSection
+EndGlobal
